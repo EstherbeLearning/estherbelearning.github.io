@@ -1,18 +1,22 @@
 h1 {
   font-family: Helvetica;
   color: hotpink;
-  background-color: lightblue;
+  background-color: pink;
+  padding: 30px
 }
 p {
   font-family: Helvetica;
-  color: pink;
-  background-color: lightblue;
+  color: whitesmoke;
+  background-color: pink;
+  padding: 0 0 30px
 }
 
 * {
   text-align: center;
+  background-color: pink;
 }
 
 img {
   align: center;
+  width: 100%;
 }
