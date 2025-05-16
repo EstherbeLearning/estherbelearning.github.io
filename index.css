@@ -1,8 +1,14 @@
 h1 {
   font-family: Helvetica;
   color: darkpink;
+  background-color: lightblue;
 }
 p {
   font-family: Helvetica;
   color: pink;
+  background-color: lightblue;
+}
+
+* {
+  align: center;
 }
