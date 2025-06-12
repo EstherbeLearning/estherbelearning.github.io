@@ -1,0 +1,38 @@
+
+header {
+  font-family: monospace;
+  padding: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: linen;
+  color: maroon;
+}
+
+h2 {
+  font-family: monospace;
+  text-align: center;
+  text-transform: uppercase;
+  color: saddlebrown;
+}
+
+table {
+  font-family: monospace;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border-bottom: 1px solid maroon;
+}
+
+th {
+  background-color: peru;
+  color: maroon;
+}
+
+td {
+  text-align: center;
+  background-color: linen;
+  color: maroon;
+  height: 50px;
+}
